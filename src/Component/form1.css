@@ -1,0 +1,41 @@
+#select
+ {
+    font-size: .8rem;
+    border-radius: 10rem!important;
+    padding: 15px 17px;
+    width:100%;
+}
+#flex{
+	display: flex;
+    justify-content: center
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -.75rem;
+    margin-left: -.75rem;
+    justify-content: center;
+}
+.p-5 {
+    
+    padding: 2.2rem 0rem 3.5rem 0rem;
+}
+
+
+
+/* utilities */
+
+
+#select-1
+ {
+    font-size: .8rem;
+    border-radius: 10rem!important;
+    padding: 15px 17px;
+    width:100%;
+}
+div#center {
+    margin: auto;
+    width: 100%;
+}
+
+

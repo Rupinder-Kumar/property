@@ -1,0 +1,17 @@
+.hidden-field {
+    display: none;
+}
+.width-full-btn {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80px;
+    margin: 0 auto;
+}
+
+.title-change {
+    text-align: center;
+    font-size: 24px;
+    text-transform: uppercase;
+}

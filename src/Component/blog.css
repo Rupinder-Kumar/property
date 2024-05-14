@@ -1,0 +1,122 @@
+
+.blog-form {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 490px;
+}
+
+form.form-field-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 100%;
+}
+
+.form-field {margin: 10px 0;}
+
+.form-field input,.form-field textarea {
+    width: 100%;
+}
+
+.form-field button {
+    background: #3158c9;
+    border-radius: unset;
+    color: #fff;
+    border: unset;
+    padding: 10px;
+    width: 100%;
+}
+.post-table {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.post-table-inner {
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.post-table-inner table {
+    max-width: 690px;
+    margin: 0 auto;
+}
+/* Form container */
+.form-field-container {
+  width: 100%;
+  max-width: 400px; /* Adjust width as needed */
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+/* Form fields */
+.form-field {
+  margin-bottom: 15px;
+}
+
+/* Text input and textarea */
+.form-field input[type="text"],
+.form-field textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  box-sizing: border-box; /* Ensure padding and border are included in width */
+}
+
+/* File input */
+.form-field input[type="file"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  box-sizing: border-box;
+  background-color: #fff; /* Add background color to indicate it's a file input */
+}
+
+/* Button */
+.form-field button[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff; /* Primary color */
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Button hover effect */
+.form-field button[type="submit"]:hover {
+  background-color: #0056b3; /* Darker shade of primary color */
+}
+
+
+.review-tables {
+    max-width: 60% !important;
+}
+
+.review-tables table {
+    max-width: 100%;
+    width: 100%;
+}
+.contact-inner {
+    position: absolute;
+    top: 20%;
+    left: 14%;
+    max-width: 600px;
+}
+
+.contact-inner table {
+    max-width: 100%;
+}

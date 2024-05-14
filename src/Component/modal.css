@@ -1,0 +1,9 @@
+.logo-inner img {
+    max-width: 70px;
+}
+
+.svg-icon {
+    text-align: center;
+    display: block;
+    width: 100%;
+}

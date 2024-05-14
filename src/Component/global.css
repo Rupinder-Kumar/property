@@ -1,0 +1,73 @@
+li.logout-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 12px;
+    padding-right: 10px;
+}
+.extra_price_group {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.extra_price_details {
+    width: 100px;
+    border: 1px solid #ccc;
+    text-align: center;
+    cursor: pointer;
+}
+
+.extra_price_details label {
+    width: 100%;
+    display: block;
+    margin-bottom: 0px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.extra_price_details label:hover {
+    background: #274fc2;
+    color: #fff;
+}
+.extra_price_details input[type=radio]:checked+label {
+    background: #3a61d0;
+}
+
+.extra_price_details input {
+    display: none;
+}
+.wrapper-third div#wrapper {
+    width: 100%;
+}
+
+.wrapper-third div#wrapper #accordionSidebar {
+    width: 100% !important;
+}
+.p-5.grid--table {
+    overflow-x: scroll;
+    max-width: 100%;
+    width: 1540px;
+}
+.insert-add .container {
+    width: 100%;
+    max-width: 100%;
+    padding: 10px;
+}
+.Rent-property .container {
+    width: 100%;
+    max-width: 100%;
+    padding: 10px;
+}
+
+
+.insert-add .container .card.o-hidden.border-0.shadow-lg.my-5 {
+    margin-top: 0px !important;
+    padding: 20px;
+}
+.Rent-property .container .card.o-hidden.border-0.shadow-lg.my-5 {
+    margin-top: 0px !important;
+    padding: 20px;
+}
