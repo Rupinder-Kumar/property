@@ -8,7 +8,7 @@ function List()
       <div className="property-inner">
         <div className="row-property">
           <div className="property-image">
-            <img src="https://static.makaan.com/1/1948029/297/images-for-project-154355646.jpeg?width=1024&height=576" />
+            <img src="https://static.makaan.com/1/1948029/297/images-for-project-154355646.jpeg?width=1024&height=576" alt="" />
           </div>
           <div className="property-data">
             <div className="property-info">
@@ -138,7 +138,7 @@ function List()
       <div className="property-inner">
         <div className="row-property">
           <div className="property-image">
-            <img src="https://static.makaan.com/1/1948029/297/images-for-project-154355646.jpeg?width=1024&height=576" />
+            <img src="https://static.makaan.com/1/1948029/297/images-for-project-154355646.jpeg?width=1024&height=576" alt="" />
           </div>
           <div className="property-data">
             <div className="property-info">
@@ -268,7 +268,7 @@ function List()
       <div className="property-inner">
         <div className="row-property">
           <div className="property-image">
-            <img src="https://static.makaan.com/1/1948029/297/images-for-project-154355646.jpeg?width=1024&height=576" />
+            <img src="https://static.makaan.com/1/1948029/297/images-for-project-154355646.jpeg?width=1024&height=576" alt="" />
           </div>
           <div className="property-data">
             <div className="property-info">
@@ -398,7 +398,7 @@ function List()
       <div className="property-inner">
         <div className="row-property">
           <div className="property-image">
-            <img src="https://static.makaan.com/1/1948029/297/images-for-project-154355646.jpeg?width=1024&height=576" />
+            <img src="https://static.makaan.com/1/1948029/297/images-for-project-154355646.jpeg?width=1024&height=576" alt="" />
           </div>
           <div className="property-data">
             <div className="property-info">
@@ -528,7 +528,7 @@ function List()
       <div className="property-inner">
         <div className="row-property">
           <div className="property-image">
-            <img src="https://static.makaan.com/1/1948029/297/images-for-project-154355646.jpeg?width=1024&height=576" />
+            <img src="https://static.makaan.com/1/1948029/297/images-for-project-154355646.jpeg?width=1024&height=576" alt="" />
           </div>
           <div className="property-data">
             <div className="property-info">
