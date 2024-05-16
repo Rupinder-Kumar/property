@@ -116,6 +116,7 @@ function List()
                   data-call-now=""
                   data-type="openLeadFormViewPhone"
                   data-step="VIEW_PHONE_MORPHED"
+                  href=""
                 >
                   View Phone
                 </a>
@@ -123,6 +124,7 @@ function List()
                   className="cbtn cbtn-p"
                   data-call-now=""
                   data-type="openLeadForm"
+                  href=""
                 >
                   {" "}
                   Connect Now
@@ -246,6 +248,7 @@ function List()
                   data-call-now=""
                   data-type="openLeadFormViewPhone"
                   data-step="VIEW_PHONE_MORPHED"
+                  href=""
                 >
                   View Phone
                 </a>
@@ -253,6 +256,7 @@ function List()
                   className="cbtn cbtn-p"
                   data-call-now=""
                   data-type="openLeadForm"
+                  href=""
                 >
                   {" "}
                   Connect Now
@@ -376,6 +380,7 @@ function List()
                   data-call-now=""
                   data-type="openLeadFormViewPhone"
                   data-step="VIEW_PHONE_MORPHED"
+                  href=""
                 >
                   View Phone
                 </a>
@@ -383,6 +388,7 @@ function List()
                   className="cbtn cbtn-p"
                   data-call-now=""
                   data-type="openLeadForm"
+                  href=""
                 >
                   {" "}
                   Connect Now
@@ -506,6 +512,7 @@ function List()
                   data-call-now=""
                   data-type="openLeadFormViewPhone"
                   data-step="VIEW_PHONE_MORPHED"
+                  href=""
                 >
                   View Phone
                 </a>
@@ -513,6 +520,7 @@ function List()
                   className="cbtn cbtn-p"
                   data-call-now=""
                   data-type="openLeadForm"
+                  href=""
                 >
                   {" "}
                   Connect Now
@@ -636,6 +644,7 @@ function List()
                   data-call-now=""
                   data-type="openLeadFormViewPhone"
                   data-step="VIEW_PHONE_MORPHED"
+                  href=""
                 >
                   View Phone
                 </a>
@@ -643,6 +652,7 @@ function List()
                   className="cbtn cbtn-p"
                   data-call-now=""
                   data-type="openLeadForm"
+                  href=""
                 >
                   {" "}
                   Connect Now
